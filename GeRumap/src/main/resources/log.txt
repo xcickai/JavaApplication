@@ -1,0 +1,9 @@
+[2022-12-24 17:34:39][REDO_NEW_CONCEPT] Redo: New concept
+[2022-12-24 17:34:40][REDO_NEW_CONCEPT] Redo: New concept
+[2022-12-24 17:34:41][REDO_NEW_CONCEPT] Redo: New concept
+[2022-12-24 17:35:55][REDO_NEW_CONCEPT] Redo: New concept
+[2022-12-24 17:35:56][REDO_NEW_CONCEPT] Redo: New concept
+[2022-12-24 17:35:58][REDO_NEW_CONCEPT] Redo: New concept
+[2022-12-27 21:37:51][TRYING_TO_DELETE_PROJECT_EXPLORER] Invalid Operation: Trying to delete Project Explorer!
+[2022-12-27 21:37:58][TRYING_TO_DELETE_PROJECT_EXPLORER] Invalid Operation: Trying to delete Project Explorer!
+[2022-12-27 21:38:21][MINDMAP_NOT_SELECTED] Error: There are no active Mindmaps selected. Please create a Mindmap and try again.
