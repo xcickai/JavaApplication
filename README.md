@@ -1,3 +1,3 @@
 # Gerumap
-# It si a chool project created by : Luka Korica and Ivan Cicka 
+# It is a chool project created by : Luka Korica and Ivan Cicka 
  
